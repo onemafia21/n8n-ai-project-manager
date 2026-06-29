@@ -62,4 +62,4 @@ The agent generated a 10-step roadmap and appended it to the sheet, including mi
 
 **Kshitij Gautre**
 * Dedicated to building practical AI/ML applications, leveraging Generative LLMs, and driving enterprise automation. 
-* [Connect with me on LinkedIn](Your-LinkedIn-URL)
+* [Connect with me on LinkedIn](https://www.linkedin.com/in/kshitij-gautre-65780b412/)
