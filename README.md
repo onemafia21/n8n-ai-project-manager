@@ -43,10 +43,10 @@ The agent generated a 10-step roadmap and appended it to the sheet, including mi
 
 ## 📸 Screenshots
 
-*(Add a screenshot of your n8n workflow canvas here)*
+<img width="1863" height="815" alt="Screenshot 2026-06-29 192424" src="https://github.com/user-attachments/assets/a3e836ea-5c2d-497c-a5a8-17165e586303" />
 `![Workflow Image](link-to-your-image)`
 
-*(Add a screenshot of the populated Google Sheet here)*
+<img width="1846" height="787" alt="image" src="https://github.com/user-attachments/assets/a69eaca4-dc75-4194-9ef2-4a20f17d1132" />
 `![Spreadsheet Image](link-to-your-image)`
 
 ## 🛠️ How to Use This Workflow
